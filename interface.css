@@ -1,0 +1,97 @@
+@charset "utf-8";
+/* style sheet for La Petite Lure */
+body {
+
+    font-family: arial, georgia;
+    background-color: black;
+}
+
+header, footer {
+
+    background-color: #B22222;
+    text-align: center;
+    padding: 10px;
+    color: white;
+}
+
+img {
+
+    border-radius: 10px;  
+}
+
+h2, h3 {
+
+    font-family: georgia;
+}
+
+nav a {
+
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+nav a:hover {
+
+    color: black;
+}
+
+main {
+
+    background-color: white;
+    padding: 20px;
+}
+
+aside {
+
+    padding: 10px;
+    padding-left: 30px;
+    padding-bottom: 90px;
+    border-radius: 5px;
+    background-color: #900D09;
+    color: white;
+}
+
+aside p, aside h3 {
+
+    margin-left: 25%;
+}
+
+article {
+
+    padding: 20px;
+    border-radius: 5px;
+}
+
+section h2, section p {
+
+    margin-left: 40px;
+}
+
+figcaption {
+
+    font-style: italic;
+    color: #555;
+}
+
+details {
+
+    padding: 20px;
+    padding-left: 30px;
+    border-radius: 5px;
+    background-color: #900D09;
+    color: white;
+}
+
+details a {
+
+    text-decoration: none;
+    color: white;
+}
+
+details a:hover {
+
+    color: black;
+}
