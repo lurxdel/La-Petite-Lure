@@ -13,6 +13,7 @@ This website was developed as part of our coursework to fulfill partial requirem
 > **Note:**  
 > - The website is currently not fully responsive across all devices.  
 > - Some features may not function as intended, and the site might experience occasional crashes.
+> - Due to website being under development, the features might get an update in the future. 
 
 ### Acknowledgment  
 We are grateful to our instructors for their guidance and support throughout the development of this project. 
