@@ -4,6 +4,9 @@ This is a **simple website** designed using **HTML** and **CSS**, showcasing bas
 
 This website was developed as part of our coursework to fulfill partial requirements for a subject in school.
 
+## Screenshot
+![Home](https://github.com/user-attachments/assets/8d7f327b-16ab-4acf-bfba-74c7f98dac62)
+
 ## Visit the Website
 [Click Here to Explore]()
 
@@ -12,7 +15,9 @@ This website was developed as part of our coursework to fulfill partial requirem
 > - Some features may not function as intended, and the site might experience occasional crashes.
 
 ### Acknowledgment  
-We are grateful to our instructors for their guidance and support throughout the development of this project. This work reflects our learning journey and the collaborative efforts of the team.
+We are grateful to our instructors for their guidance and support throughout the development of this project. 
+
+This work reflects our learning journey and the collaborative efforts of the team.
 
 ## Support Me
 If you like my work or find it helpful, you can support me by:
