@@ -1,6 +1,6 @@
 # La Petite Lure
 
-This is a **simple website** designed using **HTML** and **CSS**, showcasing basic web development concepts and design principles. 
+This is a **simple website** designed using **HTML**, **CSS** and **JavaScript**, showcasing basic web development concepts and design principles. 
 
 This website was developed as part of our coursework to fulfill partial requirements for a subject in school.
 
