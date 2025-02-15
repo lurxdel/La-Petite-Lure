@@ -5,7 +5,7 @@ This is a **simple one page website** designed using **HTML**, **CSS** and **Jav
 This website was developed as part of our coursework to fulfill partial requirements for a subject in school.
 
 ## Screenshot
-![Home](https://github.com/user-attachments/assets/8d7f327b-16ab-4acf-bfba-74c7f98dac62)
+![Home](https://github.com/user-attachments/assets/09791704-9d35-40ba-8856-0aecdba1705b)
 
 ## Visit the Website
 [Click Here to Explore](https://lurxdel.github.io/La-Petite-Lure/)
