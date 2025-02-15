@@ -8,7 +8,7 @@ This website was developed as part of our coursework to fulfill partial requirem
 ![Home](https://github.com/user-attachments/assets/8d7f327b-16ab-4acf-bfba-74c7f98dac62)
 
 ## Visit the Website
-[Click Here to Explore]()
+[Click Here to Explore](https://lurxdel.github.io/La-Petite-Lure/)
 
 > **Note:**  
 > - The website is currently not fully responsive across all devices.  
