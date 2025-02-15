@@ -6,6 +6,7 @@
     <link rel="stylesheet" type="text/css" href="interface.css">
 </head>
 <body>
+
     <!-- La Petite Lure title and navigation menu -->
     <header>
         <img src="img/logo.png" width="500" height="130">
@@ -20,8 +21,8 @@
     <!-- La Petite Lure main content-->
     <main>
         <!-- La Petite Lure fun information-->
-        <aside>
-            <h2 id="home">Home</h2>
+        <aside id="home">
+            <h2>Home</h2>
             <img src="img/drinks.jpg" width="280" height="170" align="left">
             <h3>We serve high-quality foods with great service in a home-like environment</h3>
             <p><i>La petite lure</i> aims to connect the neighborhood to a dining experience in the same way ingredients are connected to food
@@ -30,55 +31,61 @@
         </aside>
 
         <!-- La Petite Lure menu section -->
+        <h2 id="menu" style="margin-left:30px; padding-top: 20px;">Menu</h2>
+        <!-- La Petite Lure important notes -->
+        <p style="margin-left:40px"><b>Note:</b> Items marked with a (🍃) <mark>are suitable for vegetarians</mark></p><br>
+
         <article>
-            <h2 id="menu">Menu</h2>
-            <!-- La Petite Lure important notes -->
-            <p><b>Note:</b> Items marked with a (🍃) <mark>are suitable for vegetarians</mark></p><br>
 
             <!-- La Petite Lure different menu -->
             <section>
-                <h2>Starters</h2>
+                <h2>Starter</h2>
                 <!-- La Petite Lure food image with description 1 -->
                 <figure>
-                    <img src="img/chicken.jpg" width="20%" height="10%">
+                    <img class="food" src="img/chicken.jpg">
                     <figcaption>Buttermilk Fried Chicken</figcaption>
                 </figure>
-                <p>> BUTTERMILK FRIED CHICKEN</p>
-                <p>> MUSHROOM SOUP 🍃</p>
-                <p>> CORDON BLEU</p>
-                <p>> CINNAMON ROLLS</p>
+                <p><b>Calories:</b>  400</p>
+                <p><b>Fat:</b>  20g</p>
+                <p><b>Carbs:</b>  25g</p>
+                <p><b>Protein:</b>  25g</p>
+
+                <button class="buttons">Buy</button>
             </section>
             <section>
-                <h2>Main Courses</h2>
+                <h2>Main Course</h2>
                 <!-- La Petite Lure food image with description 2 -->
                 <figure>
-                    <img src="img/chicken cherry.jpg" width="20%" height="10%">
+                    <img class="food" src="img/chicken cherry.jpg">
                     <figcaption>Cherry Grilled Chicken</figcaption>
                 </figure>
-                <p>> Grilled Chicken with Fresh Cherry Salsa</p>
-                <p>> SWEET & SOUR SALMON</p>
-                <p>> Vegetable Lasagna 🍃</p>
-                <p>> Caprese Pasta Salad 🍃</p>
-                <p>> Spicy Pork Vindaloo</p>
+                <p><b>Calories:</b>  200</p>
+                <p><b>Fat:</b>  5g</p>
+                <p><b>Carbs:</b>  15g</p>
+                <p><b>Protein:</b>  30g</p>
+
+                <button class="buttons">Buy</button>
             </section>
             <section>
-                <h2>Desserts</h2>
+                <h2>Dessert</h2>
                 <!-- La Petite Lure food image with description 3 -->
                 <figure>
-                    <img src="img/pancake.jpg" width="20%" height="10%">
-                    <figcaption>Blueberry Pancakes</figcaption>
+                    <img class="food" src="img/pancake.jpg" >
+                    <figcaption>Blueberry Pancakes 🍃</figcaption>
                 </figure>
-                <p>> BLUEBERRY PANCAKES 🍃</p>
-                <p>> MINI CHOCOLATE MOUSE CAKE</p>
-                <p>> TIRAMISU</p>
-                <p>> FRENCH STYLE MACARON</p>
+                <p><b>Calories:</b>  146</p>
+                <p><b>Fat:</b>  3g</p>
+                <p><b>Carbs:</b>  25g</p>
+                <p><b>Protein:</b>  5g</p>
+
+                </span><button class="buttons">Buy</button>
             </section>
         </article>
 
         <!-- La Petite Lure contact information section -->
         <details>
-            <summary id ="contact">Contacts</summary>
-            <h2>Contact</h2>
+            <summary id="contact" style="font-family: georgia; font-size: 20px; font-weight: bold">Contacts</summary>
+            <h2>Info</h2>
             <p><i>1017 State Street Santa Barbara, California 93101</i>
             <br>info@lapetitelure.com
             <br>+18* **** ***</p>
@@ -87,7 +94,7 @@
             <a href="https://www.facebook.com/dulangon.luredel">Facebook</a><br>
             <a href="https://www.instagram.com/lurxdel">Instagram</a>
         </details>
-
+        
     </main>
 
     <!-- La Petite Lure footer-->
@@ -96,4 +103,5 @@
     </footer>
 
 </body>
+<script src="main.js"></script>    
 </html>
