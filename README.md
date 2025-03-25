@@ -18,7 +18,7 @@ This website was developed as part of our coursework to fulfill partial requirem
 ### Acknowledgment  
 We are grateful to our instructors for their guidance and support throughout the development of this project. 
 
-This work reflects our learning journey and the collaborative efforts of the team.
+This work reflects my learning journey as a programmer
 
 ## Support Me
 If you like my work or find it helpful, you can support me by:
