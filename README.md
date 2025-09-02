@@ -11,7 +11,7 @@ This website was developed as part of our coursework to fulfill partial requirem
 [Click Here to Explore](https://lurxdel.github.io/La-Petite-Lure/)
 
 > **Note:**  
-> - The website is currently not fully responsive across all devices.  
+> - The website may not be fully responsive across all devices.  
 > - Some features may not function as intended, and the site might experience occasional crashes.
 > - Due to website being under development, the features might get an update in the future. 
 
